@@ -1,29 +1,45 @@
 ---
 layout: page
-title: About
+title: 소개
 image: 12.jpg
 ---
-My name is Ben Campbell. I'm an actor and a musician. Copper mug fam food truck intelligentsia 8-bit echo park ramps meggings humblebrag tacos selfies. Umami austin mlkshk, sriracha sartorial everyday carry shaman meh coloring book taxidermy slow-carb scenester pitchfork echo park. Selvage bushwick chambray coloring book put a bird on it 90's stumptown intelligentsia direct trade. Cornhole +1 polaroid gentrify, offal twee before they sold out whatever wolf.
+차가운 도시의 평범한 사축.
+현 사축, 곧 사측.
 
 ***
 
-#### Austin scenester...
-<small>1995 - 2000</small>
+#### 이력
+<small>2007 - 2011</small>
 
-Offal post-ironic before they sold out mixtape you probably haven't heard of them. Pinterest roof party umami everyday carry street art. Chillwave helvetica swag quinoa messenger bag hexagon poutine selfies thundercats small batch hell of godard roof party XOXO. Authentic post-ironic kogi, schlitz shabby chic cardigan plaid artisan copper mug woke hoodie lumbersexual gluten-free franzen. Schlitz taiyaki freegan vinyl cloud bread narwhal, meh +1 cray prism fanny pack helvetica meditation chartreuse raw denim.
+NSoft<br>
+・기업 솔루션 개발 담당<br>
+・NTT,히타치의 데이터 센터에서 SE엔지니어로 근무<br>
+・IOS관련 한국, 일본의 서비스 제작,운영
 
-#### Vinyl hexagon before...
-<small>2001 - 2008</small>
+<small>2011 - 2018</small>
 
-Chillwave helvetica swag quinoa messenger bag hexagon poutine selfies thundercats small batch hell of godard roof party XOXO. Vinyl hexagon before they sold out, crucifix humblebrag squid chicharrones enamel pin. Iceland humblebrag farm-to-table, lyft pug tilde irony.
-Hot chicken shoreditch tousled listicle, actually meggings vape. Pok pok listicle meggings, gluten-free deep v you probably haven't heard of them taxidermy iPhone gentrify seitan. Marfa schlitz literally pour-over keffiyeh messenger bag synth pinterest godard knausgaard letterpress squid cardigan poke listicle. 
+Ascent Networks<br>
+・모바일 단말 관리(MDM) 솔루션 개발<br>
+・디지털 매거진제작 툴 & 뷰어 기획, 개발, 운영<br>
+・키 오스크, 영업 지원 서비스를 기획, 개발, 운영<br>
+・SEO 키워드 분석 머신러닝 서비스의 기획, 개발 운영
 
-#### La croix you probably...
-<small>2008 - 2015</small>
+<small>2019 - </small>
 
-Shoreditch activated charcoal iceland hexagon. Glossier umami twee, snackwave paleo vaporware pickled tacos meditation typewriter drinking vinegar leggings. Mumblecore freegan butcher messenger bag, twee thundercats ennui gochujang disrupt mlkshk. Wayfarers neutra listicle YOLO ennui ramps vinyl tote bag waistcoat blue bottle poutine. Fam yuccie man bun brunch fashion axe XOXO ethical squid cray jianbing mustache. Leggings hell of shabby chic activated charcoal forage intelligentsia artisan cronut slow-carb tousled venmo mumblecore williamsburg. Tousled brunch leggings hella viral twee etsy 90's sartorial kogi keytar fam hot chicken yr. Meh small batch single-origin coffee brooklyn trust fund cornhole freegan stumptown banjo sriracha tote bag aesthetic listicle crucifix pug. Mustache vaporware kitsch, snackwave cronut semiotics viral cray lumbersexual pour-over forage.
+Resol Company<br>
+・스마트폰을 사용한 예약 관리 시스템의 기획, 개발<br>
+・고객의 행동 분석데이터를 통한 서비스 품질의 분석, 제안 관리 서비스의 기획, 개발<br>
+・주요 SNS의 유저 데이터를 분석, 제안을 위한 서비스의 기획, 개발.<br>
+・일본 연금공단 사회복지부의 페이퍼리스화 시스템의 제안, 개발, 운영<br>
+・의료관련 고객 관리, 순번 대기관리 서비스의 기획, 개발<br>
+・RFID를 이용한 재고관리 일원화 시스템의 기획, 개발<br>
+・온라인 커뮤니티 + EC통합 포털 종합 관리 시스템의 기획, 개발<br>
+・NFT 컨텐츠 거래 포털의 기획, 개발<br>
+・NTT동일본의 전화회선을 통한 CLoud PBX서비스의 기획, 개발, 운영
 
 ***
 
-*Thank You for reading!*
+#### 그 외...
+
+*현재 작성 중...*
 

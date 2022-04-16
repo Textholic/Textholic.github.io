@@ -1,0 +1,1 @@
+powershell -ExecutionPolicy ByPase -NoExit -Command "& bundle exec jekyll serve;"
