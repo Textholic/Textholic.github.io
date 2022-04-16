@@ -2,7 +2,7 @@
 title: Textholic's Blog
 description: 그냥 평범한 블로그
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://textholic.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://textholic.github.io/"
 
 # Banner Section
 hero: 112.jpg
@@ -43,7 +43,7 @@ facebook: https://facebook.com/Textholic
 contact-subtitle: 현재 준비 중입니다. 답변이 없을 가능성이 있습니다.
 
 # Google Analytics
-google-analytics: # Add your identifier. For example UA-99631805-1.
+google-analytics: G-LRTNF19XX8 # Add your identifier. For example UA-99631805-1.
 
 # Newsletter
 mailchimp: # Add your MailChimp form identifier. For example - blogenjoyfreedom.us16.list-manage.com/subscribe/post?u=cd56155d76ddeeb4c0bc4d080&amp;id=7a526cd13e
